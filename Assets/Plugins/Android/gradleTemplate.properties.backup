@@ -1,0 +1,4 @@
+org.gradle.parallel=true
+org.gradle.jvmargs=-Xmx4608m
+unityStreamingAssets=**STREAMING_ASSETS**
+**ADDITIONAL_PROPERTIES**
