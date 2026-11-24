@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Scripts
+  - Plane
+  - Colt1
+  - Colt2
+  - VRCamera
+  - Enemysbullet
+  - Tree
+  - House
+  - Cemetery Prefab
+  - Reload
+  - Ammo
+  - Health
+  - Skull
+  - Checkpoint
+  - DeathCollider
+  - MainHouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grab2Hand
+  - Water
+  - UI
+  - Enemy
+  - Grapple-Item
+  - Grab Item
+  - Trees
+  - Body
+  - No-light Objects
+  - VR Rig
+  - VR Hands
+  - Button
+  - Climb Item
+  - DeathCollider
+  - Checkpoint
+  - fireball
+  - shootheere
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
